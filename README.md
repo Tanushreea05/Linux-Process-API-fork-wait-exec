@@ -62,6 +62,7 @@ int main(void)
 ## OUTPUT:
 
 
+![os exp 2 op1](https://github.com/Tanushreea05/Linux-Process-API-fork-wait-exec/assets/138849166/4ef6496e-19fa-4d93-9d18-bd4dce39fe1f)
 
 
 
@@ -115,6 +116,7 @@ int main() {
 ## OUTPUT:
 
 
+![os exp 2 op 2](https://github.com/Tanushreea05/Linux-Process-API-fork-wait-exec/assets/138849166/807ae00a-4252-4f5f-917b-8ca645675a26)
 
 
 
@@ -178,6 +180,7 @@ int main() {
 
 ## OUTPUT:
 
+![os exp 2 op 3](https://github.com/Tanushreea05/Linux-Process-API-fork-wait-exec/assets/138849166/7427e944-7b07-419c-845f-9eb2a7af222b)
 
 
 
